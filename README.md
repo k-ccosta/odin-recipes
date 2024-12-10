@@ -35,4 +35,4 @@ Bem-vindo ao projeto **Odin Recipes**, desenvolvido como parte da trilha *Founda
 ## Conecte-se Comigo
 
 - **LinkedIn**: [Kelvin Costa](https://linkedin.com/in/k-ccosta)
-- **GitHub Pages**: [Visualizar a página](https://seu-usuario.github.io/odin-recipes)
+- **GitHub Pages**: [Visualizar a página](https://k-ccosta.github.io/odin-recipes/)
